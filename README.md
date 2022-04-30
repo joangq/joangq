@@ -3,3 +3,5 @@
 - 💻 Electronics technician
 - 🌱 Currently studying CompSci!
 - ☕ I program mostly on Java and Python, but kinda generalist nonetheless.
+
+Check out my [gists!](https://gist.github.com/Joan-GQ)
